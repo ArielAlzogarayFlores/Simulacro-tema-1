@@ -293,7 +293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   monto: 1000
-  moneda: E
+  moneda: 69
 --- !u!4 &1364733307
 Transform:
   m_ObjectHideFlags: 0
